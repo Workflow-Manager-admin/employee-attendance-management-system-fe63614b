@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/employee-attendance-management-system-fe63614b/attendance_database"
+}
